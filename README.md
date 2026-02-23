@@ -1,4 +1,5 @@
-# Batch-2027-Data-Analytics-Workshop-19.02.2026-to-17.03.2026
+# Batch-2027-Data-Analytics-Workshop-19.02.2026 DAY 1
+
 DA Workshop – Excel Project Submissions
 
 This repository is created for students to upload their Excel-based
